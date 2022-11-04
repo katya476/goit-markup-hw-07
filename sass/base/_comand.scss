@@ -1,0 +1,17 @@
+body{
+    font-family:"Roboto";
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    list-style-type:none;
+    text-decoration: none;
+    color:var(--title-text-color);
+    background-color: var(--primary-backgroungd-color);
+    }
+    .section { 
+        padding: 94px 0;
+       }
+       .container {
+        width: 1200px;
+        padding: 0 15px;
+        margin: 0 auto;
+       }

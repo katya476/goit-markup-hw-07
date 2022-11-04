@@ -28,6 +28,10 @@ header{
      letter-spacing: 0.02em;
        color:var(--title-text-color);
    }
+   .contacts-link{
+    color: var(--primary-text-color);
+    gap: 10px;
+   }
    .accent-header{
      color: var(--title-text-color);}
    .nav-link:hover{

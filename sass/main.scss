@@ -1,4 +1,5 @@
 @import'./base/reset';
+@import'./base/comand';
 
 @import'./utils/hidden';
 @import'./utils/vars';
@@ -11,14 +12,15 @@
 @import'./components/button-portfolio';
 @import'./components/team-icon';
 @import'./components/footer-content';
+@import'./components/component-class';
+@import'./components/modal-window';
+@import'./components/modal-label';
 
 @import'./layouts/header';
 @import'./layouts/hero';
 @import'./layouts/advantages';
 @import'./layouts/pictures';
 @import'./layouts/team';
-@import'./layouts/modal-window';
-@import'./layouts/modal-label';
 @import'./layouts/clients';
 
 

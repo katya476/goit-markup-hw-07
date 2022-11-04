@@ -1,7 +1,5 @@
 
-   .section { 
-    padding: 94px 0;
-   }
+  
    img {
     display: block;
     max-width: 100%;
@@ -17,36 +15,7 @@
     display: flex;
     align-items: center;
    }
-   .container {
-    width: 1200px;
-    padding: 0 15px;
-    margin: 0 auto;
-   }
-   .list-contact{
-    display: flex;
-    align-items: center;
-    gap: 50px;
-   }
-   .list{
-     list-style-type: none;
-     display: inline;
-   }
-   
-   body{
-   font-family:"Roboto";
-   font-size: 14px;
-   letter-spacing: 0.03em;
-   list-style-type:none;
-   text-decoration: none;
-   color:var(--title-text-color);
-   background-color: var(--primary-backgroungd-color);
-   }
    .html{
-   box-sizing:border-box;
-   }
-   .section-title{
-    font-size: 36px;
-    line-height:1.16;
-    text-align: center;
-    margin-bottom: 50px;
+    box-sizing:border-box;
     }
+  
